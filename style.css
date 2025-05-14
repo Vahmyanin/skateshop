@@ -1,0 +1,140 @@
+.santacruz{
+    width: 150px;
+}
+
+header{
+    display:flex;
+    font-size: 30px;
+}
+
+.ps{
+    font-size: 15px;
+}
+
+.skeit{
+    color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+    font-size:20px;
+}
+
+section{
+    display:flex;
+    justify-content:left;
+    flex-wrap: wrap;
+}
+
+.shapka{
+   font-size: 25px;
+   color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+}
+
+.shapka img{
+    width: 100%;
+}
+
+.Affliction{
+font-size: 25px;
+   color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+}
+
+.Affliction img{
+    width: 100%;
+}
+
+.ggg{
+    font-size: 20px;
+}
+
+.skeit2{
+    color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+    font-size:30px;
+}
+
+.skeit2 img{
+    width: 100%;
+}
+
+.skeit3{
+    color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+    font-size:30px;
+}
+
+.skeit3 img{
+    width: 100%;
+    height: 60%;
+}
+
+.jeans{
+    color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+    font-size:30px;
+}
+
+.jeans img{
+    width: 98%;
+}
+
+.cepi{
+    color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+    font-size:30px;
+}
+
+.cepi img{
+    width: 98%;
+}
+
+.cepi2{
+    color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+    font-size:30px;
+}
+
+.cepi2 img{
+    width: 98%;
+}
+
+.cepi3{
+    color: white;
+    padding: 30px;
+    background-color: black;
+    width:250px;
+    border: 10px double red;
+    font-size:30px;
+}
+
+.cepi3 img{
+    width: 100%;
+}
+
+main{
+    text-align: center;
+}
